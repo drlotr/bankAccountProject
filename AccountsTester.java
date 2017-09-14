@@ -1,5 +1,5 @@
 import java.util.*;
-
+//I cannot figure out why when I press D the deposit amount line doesn't come up, the same thing happens for all the other actions. It doesn't make any sense to me.
 public class AccountsTester {
 	private static String name;
 	private static double balance;
